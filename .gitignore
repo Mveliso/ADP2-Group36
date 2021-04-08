@@ -1,0 +1,4 @@
+#Files and folders to be ignored by GitHub
+#Netbeans specific files
+/nbproject/
+/target/
